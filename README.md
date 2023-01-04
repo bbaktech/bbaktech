@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbaktech
-- 💞️ I’m looking for reserch work on AI-ML, BlockChain-Ethereum ,IoT, BIoT, EDGE, FOG, CLOUD, SECURE COMPUTING, SIMULATIONS,iFogSim,,SECURITY, BIG DATA, DATA MINING, DATA SCIENCE, CRYPTOGRAPHY, IMMAGE PROCESSING,  etc,
+- 💞️ I’m looking for research work on AI-ML, BlockChain-Ethereum ,IoT, BIoT, EDGE, FOG, CLOUD, SECURE COMPUTING, SIMULATIONS,iFogSim,,SECURITY, BIG DATA, DATA MINING, DATA SCIENCE, CRYPTOGRAPHY etc,
 - 📫 reach me on: bbaktech@gmail.com
 
 <!---
